@@ -1,6 +1,7 @@
 ## Important
 
-make sure to set the URL inside the 'baseURL.ts' file
+make sure to set the URL inside the `baseURL.ts` file
+Add the url without the forward slash at the end "/"
 
 # Playwright Setup
 
