@@ -1,9 +1,9 @@
-## Important
+# Important
 
-make sure to set the URL inside the `baseURL.ts` file
-Add the url without the forward slash at the end "/"
+- make sure to set the URL inside the `baseURL.ts` file
+- Add the url without the forward slash at the end "/"
 
-# Playwright Setup
+## Playwright Setup
 
 This project is configured to use Playwright Test.
 
